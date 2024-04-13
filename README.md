@@ -22,6 +22,9 @@ A list of popular robot learning environments
 |                                  [RLBench](https://github.com/stepjam/RLBench)                                   | CoppeliaSim |                    ![RLBench](assets/rlbench.png)                    |
 |                      [Robot Colosseum](https://github.com/robot-colosseum/robot-colosseum)                       | CoppeliaSim |            ![Robot Colosseum](assets/robot-colosseum.gif)            |
 |                                     [CALVIN](https://github.com/mees/calvin)                                     |  PyBullet   |                     ![CALVIN](assets/calvin.png)                     |
+|                          [NVIDIA Orbit Benchmark](https://isaac-orbit.github.io/orbit/)                          |  Isaac Sim  |             ![NVIDIA Orbit Benchmark](assets/orbit.jpeg)             |
+|                  [NVIDIA IsaacGym Benchmark](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)                   |  Isaac Gym  |          ![NVIDIA IsaacGym Benchmark](assets/isaacgym.png)           |
+|                                      [PixMC](https://github.com/ir413/mvp)                                       |  Isaac Gym  |                      ![PixMC](assets/pixmc.png)                      |
 
 ## Notes
 
