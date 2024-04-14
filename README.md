@@ -21,7 +21,10 @@ A list of popular robot learning environments
 |                                [DexDeform](https://github.com/sizhe-li/DexDeform)                                |   SAPIEN    |                  ![DexDeform](assets/dexdeform.gif)                  |
 |                                  [RLBench](https://github.com/stepjam/RLBench)                                   | CoppeliaSim |                    ![RLBench](assets/rlbench.png)                    |
 |                      [Robot Colosseum](https://github.com/robot-colosseum/robot-colosseum)                       | CoppeliaSim |            ![Robot Colosseum](assets/robot-colosseum.gif)            |
+|                               [Ravens](https://github.com/google-research/ravens)                                |  PyBullet   |                     ![Ravens](assets/ravens.png)                     |
 |                                     [CALVIN](https://github.com/mees/calvin)                                     |  PyBullet   |                     ![CALVIN](assets/calvin.png)                     |
+|                               [VIMA-Bench](https://github.com/vimalabs/VIMABench)                                |  PyBullet   |                 ![VIMA-Bench](assets/vimabench.gif)                  |
+|                               [Brax Control Suite](https://github.com/google/brax)                               |    Brax     |                       ![Brax](assets/brax.gif)                       |
 |                          [NVIDIA Orbit Benchmark](https://isaac-orbit.github.io/orbit/)                          |  Isaac Sim  |             ![NVIDIA Orbit Benchmark](assets/orbit.jpeg)             |
 |                  [NVIDIA IsaacGym Benchmark](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)                   |  Isaac Gym  |          ![NVIDIA IsaacGym Benchmark](assets/isaacgym.png)           |
 |                                      [PixMC](https://github.com/ir413/mvp)                                       |  Isaac Gym  |                      ![PixMC](assets/pixmc.png)                      |
