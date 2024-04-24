@@ -11,6 +11,7 @@ A list of popular robot learning environments
 |                           [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO)                            |   MuJoCo    |                     ![LIBERO](assets/libero.gif)                     |
 |                                [RoboHive](https://github.com/vikashplus/robohive)                                |   MuJoCo    |                   ![RoboHive](assets/robohive.png)                   |
 |                        [Franka Kitchen](https://robotics.farama.org/envs/franka_kitchen/)                        |   MuJoCo    |             ![Franka Kitchen](assets/franka-kitchen.gif)             |
+|                             [RoboDesk](https://github.com/google-research/robodesk)                              |   MuJoCo    |                   ![RoboDesk](assets/robodesk.gif)                   |
 |                        [HumanoidBench](https://github.com/carlosferrazza/humanoid-bench)                         |   MuJoCo    |             ![HumanoidBench](assets/humanoid-bench.jpeg)             |
 |                              [LocoMuJoCo](https://github.com/robfiras/loco-mujoco)                               |   MuJoCo    |                 ![LocoMuJoCo](assets/locomujoco.gif)                 |
 |                          [RoboPianist](https://github.com/google-research/robopianist)                           |   MuJoCo    |                ![RoboPianist](assets/robopianist.gif)                |
