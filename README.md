@@ -1,6 +1,6 @@
-# awesome-robot-learning-envs
+# Awesome Robot Learning Environments 🤖🔥
 
-A list of popular robot learning environments
+A list of awesome / popular robot learning environments!
 
 |                                                    Benchmark                                                     |  Simulator  |                            Visualization                             |
 | :--------------------------------------------------------------------------------------------------------------: | :---------: | :------------------------------------------------------------------: |
