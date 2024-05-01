@@ -2,6 +2,8 @@
 
 A list of awesome / popular robot learning environments!
 
+Feel Free to ⭐️ this repo for future updates 📲
+
 |                                                    Benchmark                                                     |  Simulator  |                            Visualization                             |
 | :--------------------------------------------------------------------------------------------------------------: | :---------: | :------------------------------------------------------------------: |
 |                     [DeepMind Control Suite](https://github.com/google-deepmind/dm_control)                      |   MuJoCo    |        ![DeepMind Control Suite](assets/dm_control-suite.png)        |
