@@ -34,8 +34,6 @@ Feel Free to ⭐️ this repo for future updates 📲
 
 ## Notes
 
-- This is an in-progress repo!
-- Feel free to make a Pull Request if you'd like to propose modifications/additions to this repository
-- There is some redundancy between the benchmarks, since some of them share tasks
-- At some point soon, I will better organize the benchmarks by their task types (e.g. Robot Manipulation, Dexterous Manipulation, Humanoid, etc.)
-- I plan to keep this up-to-date
+- Want to contribute? Make a Pull Request if you'd like to propose modifications/additions to this repository 🤗
+- Choosing a benchmark? Keep in mind that some of these benchmarks share tasks ♻️
+- Why reference this repository specifically? I will keep this repository up-to-date ✅
