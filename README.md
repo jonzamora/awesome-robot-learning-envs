@@ -2,6 +2,8 @@
 
 A list of awesome / popular robot learning environments!
 
+These environments are suitable for research in the areas of **Deep Reinforcement Learning**, **Imitation Learning**, and broadly, **Embodied AI**.
+
 Feel Free to ⭐️ this repo for future updates 📲
 
 |                                                    Benchmark                                                     |  Simulator  |                            Visualization                             |
