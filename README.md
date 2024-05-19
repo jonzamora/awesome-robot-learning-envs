@@ -35,7 +35,7 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                           [FurnitureBench](https://github.com/clvrai/furniture-bench)                            |   Isaac Gym   |            ![FurnitureBench](assets/furniture-bench.png)             |
 |                  [NVIDIA IsaacGym Benchmark](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)                   |   Isaac Gym   |          ![NVIDIA IsaacGym Benchmark](assets/isaacgym.png)           |
 |                                      [PixMC](https://github.com/ir413/mvp)                                       |   Isaac Gym   |                      ![PixMC](assets/pixmc.png)                      |
-|                                 [SoftGym](https://github.com/Xingyu-Lin/softgym)                                 |  NVIDIA Flex  |                    ![SoftGym](assets/softgym.gif)                    |
+|                                 [SoftGym](https://github.com/Xingyu-Lin/softgym)                                 |  NVIDIA FleX  |                    ![SoftGym](assets/softgym.gif)                    |
 
 ## Notes
 
