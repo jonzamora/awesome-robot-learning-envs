@@ -31,6 +31,8 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                               [VIMA-Bench](https://github.com/vimalabs/VIMABench)                                |  PyBullet   |                 ![VIMA-Bench](assets/vimabench.gif)                  |
 |                               [Brax Control Suite](https://github.com/google/brax)                               |    Brax     |                       ![Brax](assets/brax.gif)                       |
 |                          [NVIDIA Orbit Benchmark](https://isaac-orbit.github.io/orbit/)                          |  Isaac Sim  |             ![NVIDIA Orbit Benchmark](assets/orbit.jpeg)             |
+|                          [TRANSIC-Envs](https://github.com/transic-robot/transic-envs)                           |  Isaac Gym  |               ![TRANSIC-Envs](assets/transic-envs.png)               |
+|                           [FurnitureBench](https://github.com/clvrai/furniture-bench)                            |  Isaac Gym  |            ![FurnitureBench](assets/furniture-bench.png)             |
 |                  [NVIDIA IsaacGym Benchmark](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)                   |  Isaac Gym  |          ![NVIDIA IsaacGym Benchmark](assets/isaacgym.png)           |
 |                                      [PixMC](https://github.com/ir413/mvp)                                       |  Isaac Gym  |                      ![PixMC](assets/pixmc.png)                      |
 
