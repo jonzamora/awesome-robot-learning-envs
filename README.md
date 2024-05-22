@@ -12,6 +12,7 @@ Feel Free to ⭐️ this repo for future updates 📲
 | [DeepMind Control Manipulation](https://github.com/google-deepmind/dm_control/tree/main/dm_control/manipulation) |    MuJoCo     | ![DeepMind Control Manipulation](assets/dm_control-manipulation.png) |
 |                           [Meta-World](https://github.com/Farama-Foundation/Metaworld)                           |    MuJoCo     |                 ![Meta-World](assets/meta-world.gif)                 |
 |                            [RoboSuite](https://github.com/ARISE-Initiative/robosuite)                            |    MuJoCo     |                  ![RoboSuite](assets/robosuite.png)                  |
+|                                 [RoboCasa](https://github.com/robocasa/robocasa)                                 |    MuJoCo     |                  ![RoboCasa](assets/robocasa.jpeg)                   |
 |                           [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO)                            |    MuJoCo     |                     ![LIBERO](assets/libero.gif)                     |
 |                                [RoboHive](https://github.com/vikashplus/robohive)                                |    MuJoCo     |                   ![RoboHive](assets/robohive.png)                   |
 |                        [Franka Kitchen](https://robotics.farama.org/envs/franka_kitchen/)                        |    MuJoCo     |             ![Franka Kitchen](assets/franka-kitchen.gif)             |
