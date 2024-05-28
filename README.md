@@ -10,6 +10,7 @@ Feel Free to ⭐️ this repo for future updates 📲
 | :--------------------------------------------------------------------------------------------------------------: | :--------------: | :------------------------------------------------------------------: |
 |                     [DeepMind Control Suite](https://github.com/google-deepmind/dm_control)                      |      MuJoCo      |        ![DeepMind Control Suite](assets/dm_control-suite.png)        |
 | [DeepMind Control Manipulation](https://github.com/google-deepmind/dm_control/tree/main/dm_control/manipulation) |      MuJoCo      | ![DeepMind Control Manipulation](assets/dm_control-manipulation.png) |
+|               [DeepMind Control Generalization Benchmark 2](https://github.com/aalmuzairee/dmcgb2)               |      MuJoCo      |  ![DeepMind Control Generalization Benchmark 2](assets/dmcgb2.gif)   |
 |                           [Meta-World](https://github.com/Farama-Foundation/Metaworld)                           |      MuJoCo      |                 ![Meta-World](assets/meta-world.gif)                 |
 |                            [RoboSuite](https://github.com/ARISE-Initiative/robosuite)                            |      MuJoCo      |                  ![RoboSuite](assets/robosuite.png)                  |
 |                                 [RoboCasa](https://github.com/robocasa/robocasa)                                 |      MuJoCo      |                  ![RoboCasa](assets/robocasa.jpeg)                   |
