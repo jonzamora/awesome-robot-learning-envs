@@ -23,6 +23,7 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                          [RoboPianist](https://github.com/google-research/robopianist)                           |      MuJoCo      |                ![RoboPianist](assets/robopianist.gif)                |
 |                           [Adroit Hand](https://robotics.farama.org/envs/adroit_hand/)                           |      MuJoCo      |                  ![Adroit Hand](assets/adroit.jpeg)                  |
 |                                   [DexMV](https://github.com/yzqin/dexmv-sim)                                    |      MuJoCo      |                      ![DexMV](assets/dexmv.png)                      |
+|                      [Safety-Gymnasium](https://github.com/PKU-Alignment/safety-gymnasium)                       |      MuJoCo      |           ![Safety-Gymnasium](assets/safety-gymnasium.gif)           |
 |                                [ManiSkill](https://github.com/haosulab/ManiSkill)                                |      SAPIEN      |                 ![ManiSkill](assets/maniskill.webp)                  |
 |                              [DexArt](https://github.com/Kami-code/dexart-release)                               |      SAPIEN      |                     ![DexArt](assets/dexart.png)                     |
 |                                [DexDeform](https://github.com/sizhe-li/DexDeform)                                |  PlasticineLab   |                  ![DexDeform](assets/dexdeform.gif)                  |
