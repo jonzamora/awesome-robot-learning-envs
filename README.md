@@ -18,6 +18,7 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                                [RoboHive](https://github.com/vikashplus/robohive)                                |      MuJoCo      |                   ![RoboHive](assets/robohive.png)                   |
 |                        [Franka Kitchen](https://robotics.farama.org/envs/franka_kitchen/)                        |      MuJoCo      |             ![Franka Kitchen](assets/franka-kitchen.gif)             |
 |                             [RoboDesk](https://github.com/google-research/robodesk)                              |      MuJoCo      |                   ![RoboDesk](assets/robodesk.gif)                   |
+|                                   [BiGym](https://github.com/chernyadev/bigym)                                   |      MuJoCo      |                      ![BiGym](assets/bigym.png)                      |
 |                        [HumanoidBench](https://github.com/carlosferrazza/humanoid-bench)                         |      MuJoCo      |             ![HumanoidBench](assets/humanoid-bench.jpeg)             |
 |                              [LocoMuJoCo](https://github.com/robfiras/loco-mujoco)                               |      MuJoCo      |                 ![LocoMuJoCo](assets/locomujoco.gif)                 |
 |                          [RoboPianist](https://github.com/google-research/robopianist)                           |      MuJoCo      |                ![RoboPianist](assets/robopianist.gif)                |
