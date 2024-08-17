@@ -34,10 +34,10 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                                     [CALVIN](https://github.com/mees/calvin)                                     |     PyBullet     |                     ![CALVIN](assets/calvin.png)                     |
 |                               [VIMA-Bench](https://github.com/vimalabs/VIMABench)                                |     PyBullet     |                 ![VIMA-Bench](assets/vimabench.gif)                  |
 |                               [Brax Control Suite](https://github.com/google/brax)                               |       Brax       |                       ![Brax](assets/brax.gif)                       |
-|                          [NVIDIA Orbit Benchmark](https://isaac-orbit.github.io/orbit/)                          |    Isaac Sim     |             ![NVIDIA Orbit Benchmark](assets/orbit.jpeg)             |
+|                            [NVIDIA Isaac Lab](https://github.com/isaac-sim/IsaacLab)                             |    Isaac Sim     |               ![NVIDIA Isaac Lab](assets/isaaclab.jpg)               |
 |                          [TRANSIC-Envs](https://github.com/transic-robot/transic-envs)                           |    Isaac Gym     |               ![TRANSIC-Envs](assets/transic-envs.png)               |
 |                           [FurnitureBench](https://github.com/clvrai/furniture-bench)                            |    Isaac Gym     |            ![FurnitureBench](assets/furniture-bench.png)             |
-|                  [NVIDIA IsaacGym Benchmark](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)                   |    Isaac Gym     |          ![NVIDIA IsaacGym Benchmark](assets/isaacgym.png)           |
+|                       [NVIDIA Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)                       |    Isaac Gym     |          ![NVIDIA IsaacGym Benchmark](assets/isaacgym.png)           |
 |                                      [PixMC](https://github.com/ir413/mvp)                                       |    Isaac Gym     |                      ![PixMC](assets/pixmc.png)                      |
 |                                 [SoftGym](https://github.com/Xingyu-Lin/softgym)                                 |   NVIDIA FleX    |                    ![SoftGym](assets/softgym.gif)                    |
 |                              [OmniGibson](https://github.com/StanfordVL/OmniGibson)                              | NVIDIA Omniverse |                ![OmniGibson](assets/omni-gibson.png)                 |
