@@ -41,6 +41,7 @@ Feel Free to ⭐️ this repo for future updates 📲
 |                                      [PixMC](https://github.com/ir413/mvp)                                       |    Isaac Gym     |                      ![PixMC](assets/pixmc.png)                      |
 |                                 [SoftGym](https://github.com/Xingyu-Lin/softgym)                                 |   NVIDIA FleX    |                    ![SoftGym](assets/softgym.gif)                    |
 |                              [OmniGibson](https://github.com/StanfordVL/OmniGibson)                              | NVIDIA Omniverse |                ![OmniGibson](assets/omni-gibson.png)                 |
+| [so101-nexus](https://github.com/johnsutor/so101-nexus) | MuJoCo / MuJoCo Warp | ![so101](https://raw.githubusercontent.com/johnsutor/so101-nexus/main/assets/so101.png) |
 
 ## Notes
 
